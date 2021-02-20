@@ -1,3 +1,6 @@
+'''
+install python from www.python.org and install the modules. Open cmd and type the comands after # in import lines ONLY
+'''
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecognition
 import datetime #pip install datetime
